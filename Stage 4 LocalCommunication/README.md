@@ -1,0 +1,2 @@
+Stage 4 headless tests use tests/Drone.java as a minimal stub ONLY. Never copy this stub into JavaFX GUI sources.
+See README_STAGE4.md for javac/java commands. Stage4Test: one-hop exchange, delayed relay, disconnection, repeated exchange, frontier invalidation/creation, and defensive snapshots. Stage3Test: 3,024 randomized frontier comparisons and four end-to-end scenarios with optional per-timestep verification. Stage3 legacy mode regression compared with original Stage 3 byte-for-byte output metrics across four environments.
