@@ -1,0 +1,72 @@
+START 32x40_open_n2_s11_utility
+END 32x40_open_n2_s11_utility 0
+START 32x40_open_n2_s11_pheromone
+END 32x40_open_n2_s11_pheromone 0
+START 32x40_open_n2_s29_utility
+END 32x40_open_n2_s29_utility 0
+START 32x40_open_n2_s29_pheromone
+END 32x40_open_n2_s29_pheromone 0
+START 32x40_open_n2_s47_utility
+END 32x40_open_n2_s47_utility 0
+START 32x40_open_n2_s47_pheromone
+END 32x40_open_n2_s47_pheromone 0
+START 32x40_open_n4_s11_utility
+END 32x40_open_n4_s11_utility 0
+START 32x40_open_n4_s11_pheromone
+END 32x40_open_n4_s11_pheromone 0
+START 32x40_open_n4_s29_utility
+END 32x40_open_n4_s29_utility 0
+START 32x40_open_n4_s29_pheromone
+END 32x40_open_n4_s29_pheromone 0
+START 32x40_open_n4_s47_utility
+END 32x40_open_n4_s47_utility 0
+START 32x40_open_n4_s47_pheromone
+END 32x40_open_n4_s47_pheromone 0
+START 32x40_clutter_n2_s11_utility
+END 32x40_clutter_n2_s11_utility 0
+START 32x40_clutter_n2_s11_pheromone
+END 32x40_clutter_n2_s11_pheromone 0
+START 32x40_clutter_n2_s29_utility
+END 32x40_clutter_n2_s29_utility 0
+START 32x40_clutter_n2_s29_pheromone
+END 32x40_clutter_n2_s29_pheromone 0
+START 32x40_clutter_n2_s47_utility
+END 32x40_clutter_n2_s47_utility 0
+START 32x40_clutter_n2_s47_pheromone
+END 32x40_clutter_n2_s47_pheromone 0
+START 32x40_clutter_n4_s11_utility
+END 32x40_clutter_n4_s11_utility 0
+START 32x40_clutter_n4_s11_pheromone
+END 32x40_clutter_n4_s11_pheromone 0
+START 32x40_clutter_n4_s29_utility
+END 32x40_clutter_n4_s29_utility 0
+START 32x40_clutter_n4_s29_pheromone
+END 32x40_clutter_n4_s29_pheromone 0
+START 32x40_clutter_n4_s47_utility
+END 32x40_clutter_n4_s47_utility 0
+START 32x40_clutter_n4_s47_pheromone
+END 32x40_clutter_n4_s47_pheromone 0
+START 32x40_rooms_n2_s11_utility
+END 32x40_rooms_n2_s11_utility 0
+START 32x40_rooms_n2_s11_pheromone
+END 32x40_rooms_n2_s11_pheromone 0
+START 32x40_rooms_n2_s29_utility
+END 32x40_rooms_n2_s29_utility 0
+START 32x40_rooms_n2_s29_pheromone
+END 32x40_rooms_n2_s29_pheromone 0
+START 32x40_rooms_n2_s47_utility
+END 32x40_rooms_n2_s47_utility 0
+START 32x40_rooms_n2_s47_pheromone
+END 32x40_rooms_n2_s47_pheromone 0
+START 32x40_rooms_n4_s11_utility
+END 32x40_rooms_n4_s11_utility 0
+START 32x40_rooms_n4_s11_pheromone
+END 32x40_rooms_n4_s11_pheromone 0
+START 32x40_rooms_n4_s29_utility
+END 32x40_rooms_n4_s29_utility 0
+START 32x40_rooms_n4_s29_pheromone
+END 32x40_rooms_n4_s29_pheromone 0
+START 32x40_rooms_n4_s47_utility
+END 32x40_rooms_n4_s47_utility 0
+START 32x40_rooms_n4_s47_pheromone
+END 32x40_rooms_n4_s47_pheromone 0

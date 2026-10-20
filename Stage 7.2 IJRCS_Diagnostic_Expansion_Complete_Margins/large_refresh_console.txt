@@ -1,0 +1,12 @@
+Stage 7 local FTFD + utility frontier: EXPLORATION_COMPLETE; steps=334 observed=100.00% visited=19.75% revisit=21.23% overlap=16.70%
+EXPERIMENT,size=48x60,layout=open,drones=2,seed=11,method=utility,status=EXPLORATION_COMPLETE,steps=334,observed=100.000000,visited=19.752624,revisit=21.225710,overlap=16.698292,replans=480,blocked=1
+Stage 7 local FTFD + pheromone frontier: EXPLORATION_COMPLETE; steps=334 observed=100.00% visited=19.75% revisit=21.23% overlap=16.70%
+EXPERIMENT,size=48x60,layout=open,drones=2,seed=11,method=pheromone,status=EXPLORATION_COMPLETE,steps=334,observed=100.000000,visited=19.752624,revisit=21.225710,overlap=16.698292,replans=480,blocked=1
+Stage 7 local FTFD + utility frontier: EXPLORATION_COMPLETE; steps=334 observed=100.00% visited=19.75% revisit=21.23% overlap=16.70%
+EXPERIMENT,size=48x60,layout=open,drones=2,seed=29,method=utility,status=EXPLORATION_COMPLETE,steps=334,observed=100.000000,visited=19.752624,revisit=21.225710,overlap=16.698292,replans=480,blocked=1
+Stage 7 local FTFD + pheromone frontier: EXPLORATION_COMPLETE; steps=334 observed=100.00% visited=19.75% revisit=21.23% overlap=16.70%
+EXPERIMENT,size=48x60,layout=open,drones=2,seed=29,method=pheromone,status=EXPLORATION_COMPLETE,steps=334,observed=100.000000,visited=19.752624,revisit=21.225710,overlap=16.698292,replans=480,blocked=1
+Stage 7 local FTFD + utility frontier: EXPLORATION_COMPLETE; steps=334 observed=100.00% visited=19.75% revisit=21.23% overlap=16.70%
+EXPERIMENT,size=48x60,layout=open,drones=2,seed=47,method=utility,status=EXPLORATION_COMPLETE,steps=334,observed=100.000000,visited=19.752624,revisit=21.225710,overlap=16.698292,replans=480,blocked=1
+Stage 7 local FTFD + pheromone frontier: EXPLORATION_COMPLETE; steps=334 observed=100.00% visited=19.75% revisit=21.23% overlap=16.70%
+EXPERIMENT,size=48x60,layout=open,drones=2,seed=47,method=pheromone,status=EXPLORATION_COMPLETE,steps=334,observed=100.000000,visited=19.752624,revisit=21.225710,overlap=16.698292,replans=480,blocked=1
