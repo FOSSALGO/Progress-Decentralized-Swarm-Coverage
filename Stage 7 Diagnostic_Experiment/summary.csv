@@ -1,0 +1,9 @@
+method,scenario,decisions,with_pheromone_on_any_frontier,local_map_with_pheromone,max_local_pheromone,changed_FU_vs_RP,replans,peer_pheromone_trigger,occupancy_trigger
+utility,0,74,0,74,0.72295,0,74,0,74
+utility,1,115,0,115,0.9025,0,115,0,115
+utility,2,61,0,61,0.600494776,0,61,0,61
+utility,3,53,0,53,0.689512375,0,53,0,53
+pheromone,0,74,0,74,0.72295,0,74,0,74
+pheromone,1,115,0,115,0.9025,0,115,0,115
+pheromone,2,61,0,61,0.600494776,0,61,0,61
+pheromone,3,53,0,53,0.689512375,0,53,0,53

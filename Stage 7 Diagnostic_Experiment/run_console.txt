@@ -1,0 +1,24 @@
+Stage 7 local FTFD + utility frontier: EXPLORATION_COMPLETE; steps=52 observed=100.00% visited=27.50% revisit=16.98% overlap=5.68%
+RESULT scenario=0 method=utility status=EXPLORATION_COMPLETE steps=52 visited=27.50000000 revisit=16.98113208 overlap=5.68181818 observed=100.00000000 reselect=74 blocked=0
+Stage 7 local FTFD + utility frontier: EXPLORATION_COMPLETE; steps=73 observed=100.00% visited=35.60% revisit=25.68% overlap=17.27%
+RESULT scenario=1 method=utility status=EXPLORATION_COMPLETE steps=73 visited=35.59870550 revisit=25.67567568 overlap=17.27272727 observed=100.00000000 reselect=115 blocked=0
+Stage 7 local FTFD + utility frontier: EXPLORATION_COMPLETE; steps=43 observed=100.00% visited=25.90% revisit=10.23% overlap=1.27%
+RESULT scenario=2 method=utility status=EXPLORATION_COMPLETE steps=43 visited=25.90163934 revisit=10.22727273 overlap=1.26582278 observed=100.00000000 reselect=61 blocked=0
+Stage 7 local FTFD + utility frontier: EXPLORATION_COMPLETE; steps=42 observed=100.00% visited=22.83% revisit=17.44% overlap=1.41%
+RESULT scenario=3 method=utility status=EXPLORATION_COMPLETE steps=42 visited=22.82958199 revisit=17.44186047 overlap=1.40845070 observed=100.00000000 reselect=53 blocked=0
+Stage 7 local FTFD + pheromone frontier: EXPLORATION_COMPLETE; steps=52 observed=100.00% visited=27.50% revisit=16.98% overlap=5.68%
+RESULT scenario=0 method=pheromone status=EXPLORATION_COMPLETE steps=52 visited=27.50000000 revisit=16.98113208 overlap=5.68181818 observed=100.00000000 reselect=74 blocked=0
+Stage 7 local FTFD + pheromone frontier: EXPLORATION_COMPLETE; steps=73 observed=100.00% visited=35.60% revisit=25.68% overlap=17.27%
+RESULT scenario=1 method=pheromone status=EXPLORATION_COMPLETE steps=73 visited=35.59870550 revisit=25.67567568 overlap=17.27272727 observed=100.00000000 reselect=115 blocked=0
+Stage 7 local FTFD + pheromone frontier: EXPLORATION_COMPLETE; steps=43 observed=100.00% visited=25.90% revisit=10.23% overlap=1.27%
+RESULT scenario=2 method=pheromone status=EXPLORATION_COMPLETE steps=43 visited=25.90163934 revisit=10.22727273 overlap=1.26582278 observed=100.00000000 reselect=61 blocked=0
+Stage 7 local FTFD + pheromone frontier: EXPLORATION_COMPLETE; steps=42 observed=100.00% visited=22.83% revisit=17.44% overlap=1.41%
+RESULT scenario=3 method=pheromone status=EXPLORATION_COMPLETE steps=42 visited=22.82958199 revisit=17.44186047 overlap=1.40845070 observed=100.00000000 reselect=53 blocked=0
+{'method': 'utility', 'scenario': 0, 'decisions': 74, 'with_pheromone_on_any_frontier': 0, 'local_map_with_pheromone': 74, 'max_local_pheromone': 0.72295, 'changed_FU_vs_RP': 0, 'replans': 74, 'peer_pheromone_trigger': 0, 'occupancy_trigger': 74}
+{'method': 'utility', 'scenario': 1, 'decisions': 115, 'with_pheromone_on_any_frontier': 0, 'local_map_with_pheromone': 115, 'max_local_pheromone': 0.9025, 'changed_FU_vs_RP': 0, 'replans': 115, 'peer_pheromone_trigger': 0, 'occupancy_trigger': 115}
+{'method': 'utility', 'scenario': 2, 'decisions': 61, 'with_pheromone_on_any_frontier': 0, 'local_map_with_pheromone': 61, 'max_local_pheromone': 0.600494776, 'changed_FU_vs_RP': 0, 'replans': 61, 'peer_pheromone_trigger': 0, 'occupancy_trigger': 61}
+{'method': 'utility', 'scenario': 3, 'decisions': 53, 'with_pheromone_on_any_frontier': 0, 'local_map_with_pheromone': 53, 'max_local_pheromone': 0.689512375, 'changed_FU_vs_RP': 0, 'replans': 53, 'peer_pheromone_trigger': 0, 'occupancy_trigger': 53}
+{'method': 'pheromone', 'scenario': 0, 'decisions': 74, 'with_pheromone_on_any_frontier': 0, 'local_map_with_pheromone': 74, 'max_local_pheromone': 0.72295, 'changed_FU_vs_RP': 0, 'replans': 74, 'peer_pheromone_trigger': 0, 'occupancy_trigger': 74}
+{'method': 'pheromone', 'scenario': 1, 'decisions': 115, 'with_pheromone_on_any_frontier': 0, 'local_map_with_pheromone': 115, 'max_local_pheromone': 0.9025, 'changed_FU_vs_RP': 0, 'replans': 115, 'peer_pheromone_trigger': 0, 'occupancy_trigger': 115}
+{'method': 'pheromone', 'scenario': 2, 'decisions': 61, 'with_pheromone_on_any_frontier': 0, 'local_map_with_pheromone': 61, 'max_local_pheromone': 0.600494776, 'changed_FU_vs_RP': 0, 'replans': 61, 'peer_pheromone_trigger': 0, 'occupancy_trigger': 61}
+{'method': 'pheromone', 'scenario': 3, 'decisions': 53, 'with_pheromone_on_any_frontier': 0, 'local_map_with_pheromone': 53, 'max_local_pheromone': 0.689512375, 'changed_FU_vs_RP': 0, 'replans': 53, 'peer_pheromone_trigger': 0, 'occupancy_trigger': 53}
